@@ -1,6 +1,6 @@
 FROM python:3.6-buster
 
-RUN pip install jupyter wand  myqlm myqlm-interop[all] 
+RUN pip install jupyter wand pybind11 myqlm myqlm-interop[all] 
 
 RUN python -m qat.magics.install
 
