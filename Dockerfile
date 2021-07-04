@@ -1,4 +1,4 @@
-FROM python:3.9.6-buster
+FROM python:3.6-buster
 
 RUN pip install jupyter wand  myqlm myqlm-interop[all] 
 
