@@ -2,7 +2,10 @@
 
 Tutorial session on quantum computing introduction, made for the [4th HPC Summer School 2021](https://cybercolombia.org/program-2021/).
 
-Credits: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lsteffenel/myqlm-tuto/HEAD)
+
+
+## Credits: 
 * Jean-François Couturier (Université de Reims Champagne Ardenne)
 * Luiz Angelo Steffenel (Université de Reims Champagne Ardenne)
 * Carlos Jaime Barrios Hernandez (Universidad Industrial de Santander)
