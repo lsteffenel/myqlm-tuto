@@ -10,3 +10,6 @@ Tutorial session on quantum computing introduction, made for the [4th HPC Summer
 * Luiz Angelo Steffenel (Université de Reims Champagne Ardenne)
 * Carlos Jaime Barrios Hernandez (Universidad Industrial de Santander)
 * Gilberto Javier Diaz Toro (Universidad Industrial de Santander/Université de Reims Champagne Ardenne)
+
+
+Note: Part of the material is based on [myQLM tutorial](https://github.com/lsteffenel/myqlm-tuto) and the excellent article from [Michel Vanhoutte](https://www.linkedin.com/pulse/understanding-quantum-computing-software-developers-michael-vanhoutte/).
