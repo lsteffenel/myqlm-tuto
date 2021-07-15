@@ -1,9 +1,7 @@
 
+# Introduction to Quantum Computing - Getting Start
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lsteffenel/myqlm-tuto/HEAD?filepath=0_Start_Here.ipynb)
-
-
-# Getting Start
-
 
 ## Before starting: know your environment
 If you are running this tutorial in [mybinder.org](https://mybinder.org/v2/gh/lsteffenel/myqlm-tuto/HEAD?filepath=0_Start_Here.ipynb), be aware that they have a small tolerance for idle machines. As a consequence, a session that is considered "idle" for more than 10 minutes is shutdown and you have to relaunch it again.
@@ -26,7 +24,7 @@ Besides mybinder.org, you can run this tutorial in your own computer. This can b
 * run a docker container --> `docker run -p 8080:8080 lsteffenel/myqlm-tuto`
 
 
-## Program for today
+## Tutorial Program 
 
 1. [Introduction to Quantum Computing](1_Intro_Quantum_Prog.ipynb) - before start coding, this section gives you more elements to understand what is quantum computing from the viewpoint of a software developer. 
 2. [Writing a Quantum Program](2_writing_quantum_program.ipynb) - in this section, you will be presented with the basic program structure using Python and myQLM libraries.
@@ -39,10 +37,11 @@ Besides mybinder.org, you can run this tutorial in your own computer. This can b
 In addition, you can check our [Cheat Sheet](CheatSheet.ipynb) and also the list of [available gates](available_gates.ipynb).
 
 
-
 ## Credits: 
 
 These documents were developed for the tutorial session on quantum computing introduction at the [4th HPC Summer School 2021](https://cybercolombia.org/program-2021/). The material will remain available at [github](https://github.com/lsteffenel/myqlm-tuto).
+
+Part of the material is based on [myQLM tutorial](https://github.com/lsteffenel/myqlm-tuto) and the excellent article from [Michel Vanhoutte](https://www.linkedin.com/pulse/understanding-quantum-computing-software-developers-michael-vanhoutte/).
 
 ### Authors
 * Jean-François Couturier (Université de Reims Champagne Ardenne)
@@ -50,4 +49,3 @@ These documents were developed for the tutorial session on quantum computing int
 * Carlos Jaime Barrios Hernandez (Universidad Industrial de Santander)
 * Gilberto Javier Diaz Toro (Universidad Industrial de Santander/Université de Reims Champagne Ardenne)
 
-Note: Part of the material is based on [myQLM tutorial](https://github.com/lsteffenel/myqlm-tuto) and the excellent article from [Michel Vanhoutte](https://www.linkedin.com/pulse/understanding-quantum-computing-software-developers-michael-vanhoutte/).
